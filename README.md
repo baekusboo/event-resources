@@ -20,6 +20,11 @@
 # Register for Hacktoberfest 2023
     https://hacktoberfest.com/
 
+# Extensions
+Live Server
+
 # Open-source projects to contribute for beginners
 1. https://github.com/Jayesh-JainX/Hacktoberfest-23
-2. 
+2. https://github.com/Ananyasingh2002/Hacktoberfest2023.git
+3. https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest
+4. https://github.com/GabeNedden/contribute
