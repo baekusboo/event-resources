@@ -29,3 +29,5 @@ Live Server
 3. https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest
 4. https://github.com/GabeNedden/contribute
 5. https://github.com/Co-Contribute-OpenSource/DevOps
+6. https://github.com/Your-First-Open-Source-Project/main-website
+7. https://github.com/dev-AshishRanjan/Idea-Arca
