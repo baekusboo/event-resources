@@ -43,6 +43,7 @@ Live Server
 5. Push it
   
        git init
+
    
        git add .
 
@@ -52,7 +53,7 @@ Live Server
 
        git status
 
-6. Raise Pull Request/ Merge Requests (PRs/MRs)
-7. Wait for your PR/MR to be merged by the maintainer
-8. Congrats you just completed your first contribution!
+7. Raise Pull Request/ Merge Requests (PRs/MRs)
+8. Wait for your PR/MR to be merged by the maintainer
+9. Congrats you just completed your first contribution!
 
