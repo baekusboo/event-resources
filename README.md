@@ -31,3 +31,28 @@ Live Server
 5. https://github.com/Co-Contribute-OpenSource/DevOps
 6. https://github.com/Your-First-Open-Source-Project/main-website
 7. https://github.com/dev-AshishRanjan/Idea-Arca
+
+# Process to Contribute
+1. Find the right #hacktoberfest-accepted repository to contribute
+2. Fork it
+3. Clone it
+
+       git clone https://www.github.com/username/repo-name
+
+4. Make changes in code files
+5. Push it
+  
+       git init
+   
+       git add .
+
+       git commit -m "Commit message"
+
+       git push origin main
+
+       git status
+
+6. Raise Pull Request/ Merge Requests (PRs/MRs)
+7. Wait for your PR/MR to be merged by the maintainer
+8. Congrats you just completed your first contribution!
+
