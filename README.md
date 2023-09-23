@@ -21,7 +21,7 @@
     https://hacktoberfest.com/
 
 # Extensions
-Live Server
+1. Live Server 
 
 # Open-source projects to contribute for beginners
 1. https://github.com/Jayesh-JainX/Hacktoberfest-23
@@ -33,7 +33,7 @@ Live Server
 7. https://github.com/dev-AshishRanjan/Idea-Arca
 
 # Process to Contribute
-1. Find the right #hacktoberfest-accepted repository to contribute
+1. Find the right repo with #hacktoberfest label to contribute
 2. Fork it
 3. Clone it
 
