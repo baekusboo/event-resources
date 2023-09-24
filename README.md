@@ -24,13 +24,14 @@
 1. Live Server 
 
 # Open-source projects to contribute for beginners
-1. https://github.com/Jayesh-JainX/Hacktoberfest-23
-2. https://github.com/Ananyasingh2002/Hacktoberfest2023.git
-3. https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest
-4. https://github.com/GabeNedden/contribute
-5. https://github.com/Co-Contribute-OpenSource/DevOps
-6. https://github.com/Your-First-Open-Source-Project/main-website
-7. https://github.com/dev-AshishRanjan/Idea-Arca
+1. https://github.com/baekusboo/music-website.git
+2. https://github.com/Jayesh-JainX/Hacktoberfest-23
+3. https://github.com/Ananyasingh2002/Hacktoberfest2023.git
+4. https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest
+5. https://github.com/GabeNedden/contribute
+6. https://github.com/Co-Contribute-OpenSource/DevOps
+7. https://github.com/Your-First-Open-Source-Project/main-website
+8. https://github.com/dev-AshishRanjan/Idea-Arca
 
 # Process to Contribute
 1. Find the right repo with #hacktoberfest label to contribute
