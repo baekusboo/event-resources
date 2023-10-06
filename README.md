@@ -1,4 +1,4 @@
-# CodeRizz: Hacktoberfest 2023 Edition
+## CodeRizz: Hacktoberfest 2023 Edition
 
 # Verify installations
 1. Open vscode > go to Terminal > New Terminal > Type the commands
@@ -23,7 +23,7 @@
 # Extensions
 1. Live Server 
 
-# Open-source projects to contribute for beginners
+# Open-source projects to contribute for beginners to practise
 1. https://github.com/baekusboo/music-website.git
 2. https://github.com/Jayesh-JainX/Hacktoberfest-23
 3. https://github.com/Ananyasingh2002/Hacktoberfest2023.git
@@ -32,6 +32,12 @@
 6. https://github.com/Co-Contribute-OpenSource/DevOps
 7. https://github.com/Your-First-Open-Source-Project/main-website
 8. https://github.com/dev-AshishRanjan/Idea-Arca
+
+# Do-Read-for-Swags
+1. hacktoberfest2023/README.md
+2. https://www.hacksquad.dev/#qa
+3. https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks
+4. https://hacktoberfestswaglist.com/list/#swag-list-2023
 
 # Process to Contribute
 1. Find the right repo with #hacktoberfest label to contribute
